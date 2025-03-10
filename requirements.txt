@@ -2,3 +2,4 @@ streamlit
 firebase-admin
 twilio
 google-generativeai
+python-dotenv
